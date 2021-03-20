@@ -7,6 +7,6 @@ Programming Language written for fun and self learning purpose.
 - Reduce the compilation time significantly
 - Try to make simple language
 
-# Programming Langugae Design and its Reasoning:
+# Programming Language Design and its Reasoning:
 ## For operators
 - Use ```:=``` for assigning value, coz normally ```=``` would mean equal.
