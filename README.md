@@ -6,6 +6,7 @@ Programming Language written for fun and self learning purpose.
 - Compiler created using C++
 - Reduce the compilation time significantly
 - Try to make simple language
+- Option to be both interpreted and compiled (for learning purpose)
 
 # Programming Language Design and its Reasoning:
 ## For operators
